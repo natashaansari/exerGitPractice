@@ -32,7 +32,7 @@
 * [ ] Run `git add nameOfMyFile.fileExtension`. (This tells git you want to track changes on that file and adds it to the staging area.)
 * [ ] Run `git status`. (This will show what has changed in git.)
 * [ ] Run `git diff`. (This shows what code has changed in the file.)
-* [ ] Run `git commit -m "The sentence I want associated with this commit message"`. (This prepares the changes to be pushed to GitHub and logs the message you specify.)
+* [ ] Run `git commit -m "The sentence I want associated with this commit message"`. (This prepares the changes to be pushed to GitHub and logs the message you specify.) You must have quotations around your sentence.
 * [ ] Run `git push origin master` (Your code is now pushed to GitHub. Be sure to include `origin master`, as this tells GitHub which branch you want to push to, and creates the branch if it doesn't exist yet.)
 * [ ] Go to your repository on GitHub and see your updates.
 
